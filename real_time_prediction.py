@@ -34,6 +34,3 @@ if __name__ == "__main__":
     real_time_data = get_real_time_data(symbol, api_key)
     prediction = predict_stock_price(real_time_data)
     print(f'Predicted Close Price: {prediction[0]}')
-
-
-    #WDP2TU4CMU42BYR3
