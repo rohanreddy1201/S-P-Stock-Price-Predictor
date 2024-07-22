@@ -4,3 +4,4 @@ requests
 joblib
 matplotlib
 scikit-learn
+sqlalchemy
